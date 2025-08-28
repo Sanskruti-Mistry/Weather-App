@@ -1,4 +1,4 @@
-# ⛅ React + Vite Weather App
+# ⛅ SkyCast (React + Vite Weather App)
 
 A responsive weather application built with **React**, **Vite**, and **Material UI**, allowing users to search for any city and instantly view real-time weather information using the OpenWeatherMap API.
 
